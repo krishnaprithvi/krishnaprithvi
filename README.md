@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align="center"><b>Adobe Experience Manager Developer • Adobe Certified Expert • USD</b></p>
 
 <p align="center">
-  <a href="https://krishna-battula.base44.app">
+  <a href="https://krishna-battula.base44.app" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Krishna%20Battula-blue?logo=portfolio" />
   </a>
 
