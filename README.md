@@ -61,16 +61,6 @@ I am an Adobe Certified Expert with over four years of professional experience w
 
 ---
 
-## 📈 GitHub Stats
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats.vercel.app/api?username=krishnaprithvi&show_icons=true&rank_icon=github&theme=github_dark">
-  <img alt="GitHub stats"
-       src="https://github-readme-stats.vercel.app/api?username=krishnaprithvi&show_icons=true&rank_icon=github">
-</picture>
-
----
-
 ## 📫 Connect with Me
 Email: [krishna.battula.14@gmail.com](mailto:krishna.battula.14@gmail.com)
 
